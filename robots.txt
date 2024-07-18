@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vulaithipe.github.io/sitemap
+Sitemap: https://vulaithipe.github.io/app/sitemap
+Sitemap: https://vulaithipe.github.io/assets/sitemap
+Sitemap: https://vulaithipe.github.io/css/sitemap
+Sitemap: https://vulaithipe.github.io/includes/sitemap
+Sitemap: https://vulaithipe.github.io/item/sitemap
+Sitemap: https://vulaithipe.github.io/src/sitemap
